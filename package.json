@@ -2,7 +2,7 @@
   "name": "chat-nuxt",
   "version": "1.0.0",
   "description": "My world-class Nuxt.js project",
-  "author": "Vladilen",
+  "author": "Dmitry Tkachenko",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
